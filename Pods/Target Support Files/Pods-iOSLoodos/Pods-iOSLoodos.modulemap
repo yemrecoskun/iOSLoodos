@@ -1,0 +1,6 @@
+framework module Pods_iOSLoodos {
+  umbrella header "Pods-iOSLoodos-umbrella.h"
+
+  export *
+  module * { export * }
+}
